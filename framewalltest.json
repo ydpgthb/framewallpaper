@@ -1,0 +1,307 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner_or_native": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner_or_native":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Hari Nasional",
+      "image_link": "rectangle/farmasi.png"
+
+    },
+    {
+      "category": "Lain-Lain",
+      "image_link": "rectangle/imlek1.png"
+
+    },
+    {
+      "category": "Keagamaan",
+      "image_link": "rectangle/israa.png"
+
+    },
+    {
+      "category": "Kalender",
+      "image_link": "rectangle/kalender1.png"
+
+    },
+    {
+      "category": "Undangan",
+      "image_link":  "portrait/wedding2.png"
+
+    },
+    {
+      "category": "Brosur",
+      "image_link":  "portrait/cuci.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "type": 1,
+      "category": "Hari Nasional",
+      "title": "Hari Persatuan Farmasi Indonesia",
+      "image_link": "rectangle/farmasi.png"
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "category": "Hari Nasional",
+      "title": "Hari Persatuan Farmasi Indonesia 2",
+      "image_link": "rectangle/farmasi2.png"
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Selamat Tahun Baru Imlek",
+      "image_link": "rectangle/imlek1.png"
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Selamat Tahun Baru Imlek 2",
+      "image_link": "rectangle/imlek2.png"
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "category": "Keagamaan",
+      "title": "Peringatan Isra Mi'raj 1",
+      "image_link": "rectangle/israa.png"
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "category": "Keagamaan",
+      "title": "Peringatan Isra Mi'raj 2",
+      "image_link": "rectangle/israb.png"
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "category": "Kalender",
+      "title": "Kalender BTS Maret 2022",
+      "image_link": "rectangle/kalender1.png"
+    },
+    {
+      "id": 8,
+      "type": 1,
+      "category": "Kalender",
+      "title": "Kalender BTS Mei 2022",
+      "image_link": "rectangle/kalender2.png"
+    },
+    {
+      "id": 9,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Harlah NU ke-96",
+      "image_link": "rectangle/nu1.webp"
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Harlah NU ke-96 2",
+      "image_link": "rectangle/nu2.webp"
+    }
+  ,
+    {
+      "id": 11,
+      "type": 1,
+      "category": "Hari Nasional",
+      "title": "Hari Pers Nasional",
+      "image_link": "rectangle/pers.png"
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "1 Tahun Maintenance Vtube",
+      "image_link": "rectangle/vtube1.png"
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "1 Tahun Maintenance Vtube",
+      "image_link": "rectangle/vtube2.png"
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Imlek",
+      "image_link": "rectangle/wallpaper_imlek.png"
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Imlek 2",
+      "image_link": "rectangle/wallpaper_imlek2.png"
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Isra Mi'raj",
+      "image_link": "rectangle/wallpaper_isra.png"
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Isra Mi'raj 2",
+      "image_link": "rectangle/wallpaper_isra2.png"
+    }
+  ,
+    {
+      "id": 17,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Hari Pers",
+      "image_link": "rectangle/wallpaper_pers.png"
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Hari Pers",
+      "image_link": "rectangle/wallpaper_pers2.png"
+    },
+    {
+      "id": 20,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Kehilangan Anjing",
+      "image_link": "portrait/dog.png"
+    },
+    {
+      "id": 21,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Pamflet Orderan Ojol",
+      "image_link": "portrait/ojol.png"
+    }
+  ,
+    {
+      "id": 22,
+      "type": 2,
+      "category": "Lain-Lain",
+      "title": "Ucapan Selamat",
+      "image_link": "portrait/selamat.png"
+    },
+    {
+      "id": 24,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Iklan Laundry",
+      "image_link": "portrait/cuci.png"
+    },
+    {
+      "id": 25,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Pernikahan",
+      "image_link": "portrait/wedding.png"
+    },
+    {
+      "id": 25,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Pernikahan",
+      "image_link": "portrait/wedding2.png"
+    },
+    {
+      "id": 26,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Ulang Tahun",
+      "image_link": "portrait/ultah.png"
+    },
+    {
+      "id": 27,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Ulang Tahun",
+      "image_link": "portrait/ultah2.png"
+    },
+    {
+      "id": 28,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Desain Flyer",
+      "image_link": "portrait/brosur.png"
+    }
+  ],
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "name_category": "Ferrari",
+      "title":"Ferrari 01",
+      "image":"file:///android_asset/image/ferrari1.webp"
+    },
+    {
+      "id": 2,
+      "name_category": "Ferrari",
+      "title": "Ferrari 02",
+      "image": "https://aliendro.id/uploads/demo/walljson/ferrari2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Ferrari",
+      "title":"Ferrari 03",
+      "image":"file:///android_asset/image/ferrari3.webp"
+    },
+    {
+      "id":4,
+      "name_category": "Lamborghini",
+      "title":"Veneno",
+      "image":"https://aliendro.id/uploads/demo/walljson/aventador.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Bugatti",
+      "title":"Bugatti Veyron",
+      "image":"https://aliendro.id/uploads/demo/walljson/bugatti.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Bugatti",
+      "title":"Bugatti Chiron",
+      "image":"file:///android_asset/image/bugatti_chiron.webp"
+    },
+    {
+      "id":7,
+      "name_category": "Mclaren",
+      "title":"Mclaren f1",
+      "image":"file:///android_asset/image/mclaren_f1_wallpaper.webp"
+    },
+    {
+      "id":7,
+      "name_category": "Mclaren",
+      "title":"Mclaren P1",
+      "image":"file:///android_asset/image/mclaren_p1.webp"
+    }
+  ]
+}
