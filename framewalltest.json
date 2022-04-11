@@ -18,6 +18,46 @@
       "link_redirect": "https://"
     }
   ],
+ 
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper Paralax",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Skin MCPE",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Fake Call",
+      "image":"file:///android_asset/more/fake.jpg",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Keyboard",
+      "image":"file:///android_asset/more/keyboard.jpeg",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
+      "link":"https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+    },
+    {
+      "id":6,
+      "title":"Mp3 Player",
+      "image":"https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
+      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+    }
+  ],
      "Categories": [
     {
       "category": "Hari Nasional",
